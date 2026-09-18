@@ -47,3 +47,8 @@ Hier ist eine Tabelle mit meinen Monatsstatistiken:
 ## Fazit
 
 Es war ein tolles Jahr! Nächstes Jahr will ich noch mehr reisen und noch mehr lernen.
+Im Fließtext [^1] können Sie ganz einfach Fußnoten [^2] unterbringen.
+
+[^1]: Hier finden Sie den Text zu der Fußnote.
+[^2]: **Fußnoten** selbst können auch *formatiert* werden.
+Und diese umfassen sogar mehrere Zeilen.
